@@ -34,6 +34,7 @@
             "tsx": "never"
         }],
         "react/jsx-indent": "off",
-        "react/jsx-max-props-per-line": "off"
+        "react/jsx-max-props-per-line": "off",
+        "linebreak-style": "off"
     }
 }
