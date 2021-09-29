@@ -28,10 +28,10 @@
         "no-underscore-dangle": "off",
         "jsx-a11y/label-has-associated-control": "off",
         "import/extensions": ["error", "ignorePackages", {
-            "js": "never",
-            "jsx": "never",
-            "ts": "never",
-            "tsx": "never"
+            "js": "always",
+            "jsx": "always",
+            "ts": "always",
+            "tsx": "always"
         }],
         "react/jsx-indent": "off",
         "react/jsx-max-props-per-line": "off",
