@@ -9,6 +9,7 @@ interface MenuItemProps {
     | "ic-menu-overview"
     | "ic-menu-transactions"
     | "ic-menu-messages"
+    | "ic-menu-card"
     | "ic-menu-rewards"
     | "ic-menu-settings"
     | "ic-menu-logout";
